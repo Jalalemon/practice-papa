@@ -1,0 +1,52 @@
+.orange {
+    color: orange;
+}
+body {
+    font-family: 'Mulish', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        margin: 0%;
+}
+.link {
+    background-color: orange;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-image: linear-gradient(rgba(255, 55, 0, 0.995), tomato);
+}
+.flex {
+    display: flex;
+    width: 100%;
+    padding-bottom: 10%;
+}
+.kaka {
+    width: 50%;
+    padding: 7px;
+    padding-left: 10%;
+    font-size: 30px;
+}
+.kaka img {
+    width: 100%;
+} 
+.dhaka {
+    width: 50%;
+    font-size: 20px;
+    padding: 10%;
+}
+.dhaka img {
+    width: 67%;
+    padding-left: 20%;
+}
+p {
+    font-size: 0px;
+}
+#choto {
+    font-size: 20px;
+}
+.bg {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin: 0%;
+    background-size: 100%;
+    padding-bottom: 10%;
+}
