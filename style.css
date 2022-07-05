@@ -51,7 +51,7 @@ p {
 }
 .centering {
  text-align: center;
- margin: 2%;
+ margin: 0%;
 }
 .food {
     display: flex;
@@ -69,4 +69,21 @@ p {
 .jaja img {
     width: 100%;
     
+}
+.aha {
+    font-size: 30px;
+    font-weight: 700;
+    width: 100;
+    text-align: center;
+    padding: 10%;
+    padding-left: 15%;
+}
+.nana {
+    font-size: 11px;
+    margin: 0%;
+}
+#con {
+    font-weight: 700;
+    color: tomato;
+    font-family: cursive;
 }
